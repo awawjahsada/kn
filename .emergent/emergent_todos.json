@@ -1,0 +1,50 @@
+[
+  {
+    "content": "Phase 1: Pindahkan pagar \"override yield wajib beralasan\" ke service (SSOT) + seed diberi alasan sungguhan",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 1: Perbaiki urutan bersih-bersih POC T6 (hapus SPK uji sebelum tahap; gate tetap ketat)",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 1: `_fase_t_snapshot.py diff` jujur — allowlist keras untuk 1 field audit yang sengaja berubah",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 1: POC FASE T 62/62 tiga kali berturut, nol residu",
+    "status": "completed"
+  },
+  {
+    "content": "Phase 2: Master \"Tahapan Proses\" di layar (kolom + field, tambah 'Sanforize' tanpa programmer)",
+    "status": "in_progress"
+  },
+  {
+    "content": "Phase 2: Pemilih tahap SPK dari master + pilihan aliran kain + peringatan mitra",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2: Tombol & pop-up \"Catat Jasa\" untuk langkah jasa murni di panel detail SPK",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2: Kosakata proses dari master (MakloonSelect · resep · mitra) — hapus hardcode",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 2: Rebuild FE + semua user story FASE T tercakup di layar",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 3: `gate.sh --full` hijau + `audit_md_erp_readiness.py --fase T` SELESAI",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 3: Uji end-to-end lewat testing_agent_v3 (3 user story FASE T)",
+    "status": "pending"
+  },
+  {
+    "content": "Phase 3: Perbarui SESSION_HANDOFF.md · plan.md · ENTITY_REGISTRY.md · memory/test_credentials.md · BUG_BACKLOG.md",
+    "status": "pending"
+  }
+]
